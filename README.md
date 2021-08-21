@@ -1,4 +1,4 @@
-### Hi, I'm Esra 👋
+### Hi, I'm Esra 👋🏻
 
 🌱 I’m currently learning React.js, Node.js etc.
 
