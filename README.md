@@ -14,7 +14,5 @@ My work goes beyond implementing features. I enjoy understanding problems from b
 I’m particularly interested in frontend architecture, production reliability and the intersection of engineering and product experience.
 After several years in e-commerce, I’m also excited to explore new product domains, learn from different technical challenges, and continue growing as an engineer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esrasen9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
